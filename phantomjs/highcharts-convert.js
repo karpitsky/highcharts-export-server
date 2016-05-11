@@ -36,7 +36,8 @@
 					HIGHCHARTS_3D: 'highcharts-3d.js',
 					HIGHCHARTS_NODATA: 'no-data-to-display.js',
 					// Uncomment below if you have both Highcharts and Highmaps license
-					// HIGHCHARTS_MAP: 'map.js',
+					HIGHCHARTS_MAP: 'map.js',
+                                        HIGHCHARTS_WORLD: 'world.js',
 					HIGHCHARTS_SOLID_GAUGE: 'solid-gauge.js',
 					BROKEN_AXIS: 'broken-axis.js'
 				},
