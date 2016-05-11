@@ -63,7 +63,8 @@
 					HIGHCHARTS_DATA: 'data.js',
 					HIGHCHARTS_DRILLDOWN: 'drilldown.js',
 					HIGHCHARTS_HEATMAP: 'heatmap.js',
-					HIGHCHARTS_NODATA: 'no-data-to-display.js'
+					HIGHCHARTS_NODATA: 'no-data-to-display.js',
+                                        HIGHCHARTS_WORLD: 'world.js',
 				}
 			},
 			TIMEOUT: 5000 /* 5 seconds timout for loading images */
